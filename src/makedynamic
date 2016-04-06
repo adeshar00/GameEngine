@@ -1,0 +1,2 @@
+# run this script to generate a dynamic library
+gcc -shared -o libgendyn.so -fPIC clock.c window.c input.c matrix.c drawline.c projection.c shader.c model.c libmain.c -lSDL2 -lGL -lGLEW -Wall
