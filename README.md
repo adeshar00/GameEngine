@@ -1,7 +1,7 @@
 
 # About
 
-This is a C library which simplifies the process of making 3D games with OpenGL and SDL.  Currently, it can open a window, display 3D graphics, detect user input, and import models (only those made with Blender and saved with the [Blender add-on](https://github.com/adeshar00/BlenderAddon) I made).  It can be called from Python, which allows for rapid prototyping and tool development.   A lot of the code for this was taken from the code for [Skygunner](https://github.com/adeshar00/Skygunner).
+This is a C library which simplifies the process of making 3D games with OpenGL and SDL (I eventually decided to rewrite this, and am currently working on [this version](https://github.com/adeshar00/GameLib)).  It can open a window, display 3D graphics, detect user input, and import models (only those made with Blender and saved with the [Blender add-on](https://github.com/adeshar00/BlenderAddon) I made).  It can be called from Python, which allows for rapid prototyping and tool development.   A lot of the code for this was taken from the code for [Skygunner](https://github.com/adeshar00/Skygunner).
 
 
 # To Use
